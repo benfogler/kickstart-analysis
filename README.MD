@@ -8,8 +8,9 @@ The goal of this project is to determine specific trends by month to target spec
 
 ## Analysis and Challenges
 The analysis contained two line graphs that plotted trends by Launch Date and Goals.
-"C:\Users\Benja\OneDrive\Desktop\Data Analytics Class\Module 1\Crowdfunding\Resources\Outcomes_vs_Goals.png"
-"C:\Users\Benja\OneDrive\Desktop\Data Analytics Class\Module 1\Crowdfunding\Resources\Theater_Outcomes_vs_Launch.png"
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/114610539/194772414-ddcaf151-2db1-4147-a9cc-c50c8619203f.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/114610539/194772421-38554f9b-896a-4a6e-9b81-6469ee673c6b.png)
+
 
 ### Analysis of Outcomes Based on Launch Date
 This part of the analysis took into account the months for a full calendar year, and then summarized them by successful, failed, and canceled on a pivot table. This allowed for 3 different lines on our graph to plot the trend between the 3.
@@ -30,4 +31,4 @@ There were no specific challenges arranging and creating the visualization, but 
 - What are some limitations of this dataset?
 	1. This dataset is only focusing on the difference in success vs. failure by launch date, or by goals. It does not take into consideration the number of backers or the subcategories.
 - What are some other possible tables and/or graphs that we could create?
-	1.I would take into consideration the subcategory we are targeting, as well as the number of backers and average donation. We could possibly overlay this with our current graphs to see if there is any correlation to the trends and possibly target those areas specifically. 
+	1. I would take into consideration the subcategory we are targeting, as well as the number of backers and average donation. We could possibly overlay this with our current graphs to see if there is any correlation to the trends and possibly target those areas specifically. 
